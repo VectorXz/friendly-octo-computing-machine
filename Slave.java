@@ -5,4 +5,9 @@ class Slave {
         */
         System.out.println("Slave says Hi!");
     }
+	
+	public static void sayLove() {
+		// See documentation at https://github.com/VectorXz/friendly-octo-computing-machine/issues/38
+		System.out.println("Love!");
+	}
 }

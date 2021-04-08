@@ -4,7 +4,7 @@ class Say {
 		System.out.println("B"+"Y"+"E");
 	}
 	
-	// Change way to say "NICE!" after issue #65 is resolved
+	// Change way to say "NICE!" after issue #65 is fixed
 	public static void sayNice() {
 		System.out.println("Ni"+"ce"+"!");
 	}

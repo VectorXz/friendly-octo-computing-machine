@@ -8,4 +8,9 @@ class Say {
 	public static void sayNice() {
 		System.out.println("Ni"+"ce"+"!");
 	}
+	
+	//Waiting for issue #66 to be resolve
+	public static void sayHelloWorld() {
+		System.out.println("Hello"+" "+"World!");
+	}
 }
